@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89dec4280eda71749ac1b57b39f15f91, type: 3}
+  m_Name: Sock19
+  m_EditorClassIdentifier: 
+  baseColour: {r: 0.010813437, g: 0.764151, b: 0.68554586, a: 1}
+  OtherBitsColor: {r: 0.14640442, g: 0.3061834, b: 0.6603774, a: 1}
+  OtherBits: {fileID: 0}
+  Base: {fileID: 0}
+  Mouth: {fileID: 21300000, guid: 4068f29e93d4f8e43913d0bffbfb8e77, type: 3}
+  name: Alfonsock
+  TypeOfSock: 0
+  SexOfSock: 0
+  partner: {fileID: 11400000, guid: 59d893c2417fb814d972d3b13d7b49cf, type: 2}
+  Sprite: {fileID: 21300000, guid: 18e2d5bb29db63149b3fa5b76c8331fc, type: 3}
+  bio: Best Toe coverer.
